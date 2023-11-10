@@ -1,0 +1,21 @@
+.label_ {
+  color: rgb(19, 53, 86);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.input {
+  margin-left: 10px;
+}
+
+.btn {
+  width: 240px;
+  background: #bbe7bb;
+  border-radius: 3px;
+  border-color: #94e094;
+  height: 30px;
+}

@@ -1,0 +1,25 @@
+.btn {
+  width: 90px;
+  background: #bbe7bb;
+  height: 30px;
+  border-radius: 3px;
+  border-color: #94e094;
+}
+.list {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 400px;
+  padding: 12px;
+  list-style: none;
+}
+.item {
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 16px;
+}
